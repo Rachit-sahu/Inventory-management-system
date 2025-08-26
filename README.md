@@ -72,7 +72,7 @@ Vite · ESBuild · TSX
 
 ⚙️ Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/inventory-management.git
+git clone https://github.com/Rachit-sahu/Inventory-management-system/tree/main
 cd inventory-management
 
 2️⃣ Install Dependencies
